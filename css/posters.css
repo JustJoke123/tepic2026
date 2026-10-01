@@ -1,0 +1,512 @@
+/* =====================================================
+   RESET
+===================================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root {
+
+    --bg: #080808;
+
+    --surface: #101010;
+
+    --text: #f5f5f5;
+
+    --muted: #888;
+
+    --border: rgba(255,255,255,0.12);
+
+    --accent: #d7ff3f;
+
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+
+    background: var(--bg);
+
+    color: var(--text);
+
+    font-family: "Inter", sans-serif;
+
+    overflow-x: hidden;
+
+}
+
+
+a {
+
+    color: inherit;
+
+    text-decoration: none;
+
+}
+
+
+/* =====================================================
+   NAVBAR
+===================================================== */
+
+.posters-nav {
+
+    height: 80px;
+
+    padding: 0 6%;
+
+    border-bottom: 1px solid var(--border);
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+}
+
+
+.posters-nav span {
+
+    font-family: "Space Grotesk";
+
+    font-weight: 600;
+
+}
+
+
+.back-link {
+
+    color: var(--muted);
+
+    font-size: 12px;
+
+    transition: 0.25s ease;
+
+}
+
+
+.back-link:hover {
+
+    color: white;
+
+}
+
+
+/* =====================================================
+   PAGE
+===================================================== */
+
+.posters-page {
+
+    max-width: 1300px;
+
+    margin: auto;
+
+    padding: 130px 6%;
+
+}
+
+
+/* =====================================================
+   HEADER
+===================================================== */
+
+.posters-header {
+
+    max-width: 1000px;
+
+    margin-bottom: 100px;
+
+}
+
+
+.eyebrow {
+
+    color: var(--accent);
+
+    font-size: 10px;
+
+    letter-spacing: 4px;
+
+}
+
+
+.posters-header h1 {
+
+    font-family: "Space Grotesk";
+
+    font-size: clamp(60px, 9vw, 130px);
+
+    line-height: 0.85;
+
+    letter-spacing: -6px;
+
+    margin-top: 25px;
+
+}
+
+
+.posters-header h1 strong {
+
+    display: block;
+
+    color: transparent;
+
+    -webkit-text-stroke: 1px #777;
+
+}
+
+
+.posters-header p {
+
+    max-width: 600px;
+
+    color: var(--muted);
+
+    line-height: 1.7;
+
+    margin-top: 40px;
+
+}
+
+
+/* =====================================================
+   POSTER GRID
+===================================================== */
+
+.posters-grid {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 25px;
+
+}
+
+
+/* =====================================================
+   POSTER CARD
+===================================================== */
+
+.poster-card {
+
+    border: 1px solid var(--border);
+
+    background: var(--surface);
+
+    overflow: hidden;
+
+    transition:
+        transform 0.3s ease,
+        border-color 0.3s ease;
+
+}
+
+
+.poster-card:hover {
+
+    transform: translateY(-6px);
+
+    border-color: var(--accent);
+
+}
+
+
+/* =====================================================
+   IMAGE
+===================================================== */
+
+.poster-image-link {
+
+    display: block;
+
+}
+
+
+.poster-image-wrapper {
+
+    position: relative;
+
+    width: 100%;
+
+    aspect-ratio: 3 / 4;
+
+    overflow: hidden;
+
+    background: #111;
+
+}
+
+
+.poster-image-wrapper img {
+
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    display: block;
+
+    transition:
+        transform 0.5s ease,
+        filter 0.5s ease;
+
+}
+
+
+.poster-card:hover
+.poster-image-wrapper img {
+
+    transform: scale(1.03);
+
+}
+
+
+/* =====================================================
+   HOVER OVERLAY
+===================================================== */
+
+.poster-overlay {
+
+    position: absolute;
+
+    inset: 0;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    background:
+        rgba(0,0,0,0.55);
+
+    opacity: 0;
+
+    transition: 0.3s ease;
+
+}
+
+
+.poster-overlay span {
+
+    padding: 12px 18px;
+
+    border: 1px solid rgba(255,255,255,0.5);
+
+    font-size: 10px;
+
+    letter-spacing: 2px;
+
+}
+
+
+.poster-card:hover
+.poster-overlay {
+
+    opacity: 1;
+
+}
+
+
+/* =====================================================
+   POSTER INFORMATION
+===================================================== */
+
+.poster-info {
+
+    display: grid;
+
+    grid-template-columns: 45px 1fr;
+
+    gap: 15px;
+
+    padding: 25px;
+
+    border-top: 1px solid var(--border);
+
+}
+
+
+.poster-number {
+
+    color: var(--accent);
+
+    font-size: 11px;
+
+    letter-spacing: 1px;
+
+}
+
+
+.poster-info h2 {
+
+    font-family: "Space Grotesk";
+
+    font-size: 20px;
+
+    font-weight: 500;
+
+}
+
+
+.poster-info p {
+
+    color: var(--muted);
+
+    font-size: 12px;
+
+    line-height: 1.5;
+
+    margin-top: 7px;
+
+}
+
+
+/* =====================================================
+   EMPTY STATE
+===================================================== */
+
+.empty-state {
+
+    padding: 100px 20px;
+
+    text-align: center;
+
+    border-top: 1px solid var(--border);
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+
+.empty-state span {
+
+    color: var(--accent);
+
+    font-size: 10px;
+
+    letter-spacing: 4px;
+
+}
+
+
+.empty-state p {
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+    margin-top: 15px;
+
+}
+
+
+/* =====================================================
+   FOOTER
+===================================================== */
+
+footer {
+
+    border-top: 1px solid var(--border);
+
+    padding: 30px 6%;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    color: #555;
+
+    font-size: 11px;
+
+}
+
+
+footer a:hover {
+
+    color: white;
+
+}
+
+
+/* =====================================================
+   TABLET
+===================================================== */
+
+@media (max-width: 950px) {
+
+    .posters-grid {
+
+        grid-template-columns:
+            repeat(2, 1fr);
+
+    }
+
+}
+
+
+/* =====================================================
+   MOBILE
+===================================================== */
+
+@media (max-width: 600px) {
+
+    .posters-page {
+
+        padding: 90px 6%;
+
+    }
+
+
+    .posters-header {
+
+        margin-bottom: 60px;
+
+    }
+
+
+    .posters-header h1 {
+
+        font-size: 60px;
+
+        letter-spacing: -4px;
+
+    }
+
+
+    .posters-grid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+
+    .empty-state {
+
+        padding: 70px 20px;
+
+    }
+
+
+    footer {
+
+        flex-direction: column;
+
+        gap: 15px;
+
+    }
+
+}
