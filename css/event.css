@@ -161,11 +161,32 @@ a {
 }
 
 
-.event-register {
+/* EVENT BUTTONS */
 
-    width: fit-content;
+.event-actions {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 18px;
 
     margin-top: 45px;
+
+}
+
+
+/* REGISTER */
+
+.event-register {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    width: fit-content;
 
     padding: 16px 25px;
 
@@ -183,6 +204,48 @@ a {
 
 
 .event-register:hover {
+
+    transform: translateY(-3px);
+
+}
+
+
+/* POSTER */
+
+.event-poster {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    width: fit-content;
+
+    padding: 16px 25px;
+
+    border: 1px solid var(--border);
+
+    color: white;
+
+    background: transparent;
+
+    font-size: 13px;
+
+    font-weight: 600;
+
+    transition: 0.3s ease;
+
+}
+
+
+.event-poster:hover {
+
+    background: white;
+
+    color: black;
+
+    border-color: white;
 
     transform: translateY(-3px);
 
@@ -361,7 +424,6 @@ footer {
 footer a:hover {
     color: white;
 }
-
 
 /* MOBILE */
 

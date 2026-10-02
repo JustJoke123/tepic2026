@@ -1,6 +1,7 @@
 const posters = [
 
     {
+        id: "paper",
         title: "TEPIC 2026",
         description: "Testing Symposium Poster",
         image: "assets/posters/poster-01.jpg",

@@ -27,6 +27,9 @@ const events = {
         register:
             "YOUR_PAPER_GOOGLE_FORM_LINK",
 
+        poster:
+            "posters.html#paper",
+
         rules: [
 
             "Topic and theme will be announced by the organizers.",
@@ -42,11 +45,11 @@ const events = {
     },
 
 
-    project: {
+    poster: {
 
         number: "02",
 
-        title: "Project Presentation",
+        title: "Poster Presentation",
 
         description:
             "Build it. Demonstrate it. Explain it.",
@@ -214,7 +217,7 @@ const events = {
 
         number: "06",
 
-        title: "Workshop",
+        title: "Polymer & Mechanical Workshop",
 
         description:
             "Learn practical skills beyond the classroom.",
@@ -350,6 +353,9 @@ if (!event) {
 
     document.getElementById("registerButton")
         .href = event.register;
+
+    document.getElementById("posterButton")
+        .href = event.poster;
 
 
     const rulesContainer =
