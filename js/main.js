@@ -57,7 +57,7 @@ document.querySelectorAll(".nav-links a").forEach(link => {
 */
 
 const eventDate = new Date(
-    "2026-10-24T10:00:00"
+    "2026-10-24T09:00:00"
 ).getTime();
 
 
