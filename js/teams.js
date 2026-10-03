@@ -78,8 +78,8 @@ const teams = [
         heads: [
             "Susendhar M",
             "Vignesh Kumar VR",
-            "Kalimuthu K",
-            "Sabarish Babu KG"
+            "Sundharesan R",
+            "Saravanan B"
         ]
     },
 
