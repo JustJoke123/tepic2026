@@ -636,7 +636,7 @@ button {
 
 }
 
-.section-heading p:last-child {
+.section-heading > p:not(.mini-heading) {
     
     color: var(--muted);
     
