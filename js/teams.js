@@ -31,7 +31,7 @@ const teams = [
             "Kavinesh C",
             "Aadhithan S",
             "Pravin Karthik R",
-            "Sindhya P"
+            "Suryaprakash T"
         ]
     },
 
