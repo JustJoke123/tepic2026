@@ -1,7 +1,7 @@
 const teams = [
 
     {
-        //number: "01",
+        number: "01",
         name: "Overall Coordinators",
         heads: [
             "Karthik D",
@@ -10,7 +10,7 @@ const teams = [
     },
     
     {
-        //number: "01",
+        number: "01",
         name: "Official Admins",
         heads: [
             "Narayanan M",
@@ -19,7 +19,7 @@ const teams = [
     },
 
     {
-        number: "01",
+        number: "03",
         name: "Finance Management Team",
         heads: [
             "Nithish Kumar K",
@@ -31,7 +31,7 @@ const teams = [
 
 
     {
-        number: "02",
+        number: "04",
         name: "Sponsorship Management Team",
         heads: [
             "Anandhalakshmanan EG",
@@ -43,7 +43,7 @@ const teams = [
 
 
     {
-        number: "03",
+        number: "05",
         name: "Technical Team",
         heads: [
             "Kavinesh C",
@@ -55,7 +55,7 @@ const teams = [
 
 
     {
-        number: "04",
+        number: "06",
         name: "Procurement Team",
         heads: [
             "Kishore Jebaraj R",
@@ -67,7 +67,7 @@ const teams = [
 
 
     {
-        number: "05",
+        number: "07",
         name: "Souvenir Team",
         heads: [
             "Jayagayathiri J",
@@ -79,7 +79,7 @@ const teams = [
 
 
     {
-        number: "06",
+        number: "08",
         name: "Decoration Team",
         heads: [
             "Mathesh S",
@@ -91,7 +91,7 @@ const teams = [
     
 
     {
-        number: "07",
+        number: "09",
         name: "Crowd Management Team",
         heads: [
             "Susendhar M",
@@ -103,7 +103,7 @@ const teams = [
 
 
     {
-        number: "08",
+        number: "10",
         name: "Food & Refreshments Team",
         heads: [
             "Kannan G",
@@ -115,7 +115,7 @@ const teams = [
 
 
     {
-        number: "09",
+        number: "11",
         name: "Cultural Team",
         heads: [
             "Abdus Sameed Irfan J",
@@ -127,7 +127,7 @@ const teams = [
 
 
     {
-        number: "10",
+        number: "12",
         name: "Event Management Team",
         heads: [
             "Praveena R",
