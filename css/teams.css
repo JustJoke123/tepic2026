@@ -250,9 +250,9 @@ a {
 
     width: 100%;
 
-    height: 360px;
+    height: auto;
 
-    object-fit: cover;
+    object-fit: contain;
 
     filter: grayscale(100%);
 
@@ -380,13 +380,6 @@ footer a:hover {
     .team-photo {
 
         margin-top: 25px;
-
-    }
-
-
-    .team-photo img {
-
-        height: 220px;
 
     }
 
