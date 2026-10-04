@@ -1,6 +1,24 @@
 const teams = [
 
     {
+        //number: "01",
+        name: "Overall Coordinators",
+        heads: [
+            "Karthik D",
+            "Seshagiri M",
+        ]
+    },
+    
+    {
+        //number: "01",
+        name: "Official Admins",
+        heads: [
+            "Narayanan M",
+            "Nivetha B",
+        ]
+    },
+
+    {
         number: "01",
         name: "Finance Management Team",
         heads: [
