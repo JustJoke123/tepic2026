@@ -10,7 +10,7 @@ const teams = [
     },
     
     {
-        number: "01",
+        number: "02",
         name: "Official Admins",
         heads: [
             "Narayanan M",
