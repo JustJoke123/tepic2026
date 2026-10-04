@@ -4,8 +4,8 @@ const posters = [
         id: "paper",
         title: "TEPIC 2026",
         description: "Testing Symposium Poster",
-        image: "assets/posters/poster-01.jpg",
-        link: "assets/posters/poster-01.jpg"
+        image: "assets/posters/tepic-poster.jpg",
+        link: "assets/posters/tepic-poster.jpg"
     }
 
 ];
