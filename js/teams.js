@@ -89,7 +89,7 @@ const teams = [
         name: "Food & Refreshments Team",
         heads: [
             "Kannan G",
-            "Dharshini D",
+            "Suresh M",
             "Pranesh M",
             "Gajalakshmi V"
         ]
