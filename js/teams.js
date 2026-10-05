@@ -124,7 +124,7 @@ const teams = [
         heads: [
             "Keerthana S",
             "Kanmani C",
-            "Jayagayathiri J",
+            "Jayagayathri J",
             "Pavithra V",
         ]
     },
