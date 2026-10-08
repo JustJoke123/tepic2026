@@ -298,7 +298,7 @@ const events = {
     },
 
 
-    workshop: {
+    pworkshop: {
 
         number: "06",
 
@@ -348,7 +348,7 @@ const events = {
 
     },
 
-    workshop: {
+    mworkshop: {
 
         number: "07",
 

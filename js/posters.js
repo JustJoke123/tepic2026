@@ -61,7 +61,15 @@ const posters = [
         title: "Cad Modelling",
         description: "Cad Modelling Poster with Rules and Regulations",
         image: "assets/posters/cad.jpg",
-        link: "assets/posters/cad.jpg"
+        link: "assets/flyers/CAD Flyer.pdf"
+    },
+    
+    {
+        id: "pworkshop",
+        title: "Polymer Workshop",
+        description: "Polymer Workshop Poster",
+        image: "assets/posters/pworkshop.jpg",
+        link: "assets/flyers/Workshop Polymer Flyer.pdf"
     },
 ];
 
