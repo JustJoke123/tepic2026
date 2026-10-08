@@ -90,10 +90,10 @@ const events = {
             "Maximum 2 members",
         
         cooridnators:
-            "Anbumani S | Saravanan B",
+            "Anbumani S | Saravanan B | Jafline J | Keerthivasan R",
 
         contact:
-            "9080823648 | 8610851846",
+            "8939391914 | 8610851846",
 
         register:
             "https://forms.gle/Q2mqEawtjHDmNGrNA",
@@ -151,7 +151,7 @@ const events = {
             "Maximum 2 members",
         
         cooridnators:
-            "Aswin Joe J M | Angala Eshwari M ",
+            "Aswin Joe J M | Angala Eshwari M | Megaa J | Joeferg Andel J",
 
         contact:
             "7299495776  | 9361657180",
@@ -202,7 +202,7 @@ const events = {
             "Individual",
         
         cooridnators:
-            "Kesavanandhini R | Ragavendiran P",
+            "Kesavanandhini R | Ragavendiran P | Brundha M | Akash J",
 
         contact:
             "7598606409 | 6379165874",
@@ -258,7 +258,7 @@ const events = {
             "Maximum 3 members",
         
         cooridnators:
-            "Anancia M | Yogeshvar S",
+            "Anancia M | Yogeshvar S | Ishwarya K | Eswar J",
 
         contact:
             "9751728222 | 936166314",
@@ -323,10 +323,10 @@ const events = {
             "To Be Announced",
         
         cooridnators:
-            "Name1 | name2",
+            "Karthik A K | Sakthi Vignesh M | Sindhiya P A | Kavin G",
 
         contact:
-            "number1 | number2",
+            "9786488201 | 9043405230",
 
         register:
             "YOUR_WORKSHOP_GOOGLE_FORM_LINK",
@@ -371,7 +371,7 @@ const events = {
             "Individual",
 
         cooridnators:
-            "Madhan Kumar B G | Meenatchi A",
+            "Madhan Kumar B G | Meenatchi A | Rathish M | Mohammed Jaseem M P",
 
         contact:
             "9865388802 | 6383055456",
