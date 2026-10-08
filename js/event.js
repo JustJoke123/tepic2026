@@ -13,7 +13,7 @@ const events = {
             "A platform for participants to present their technical research, concepts and findings before an audience.",
 
         venue:
-            "To Be Announced",
+            "Interview Hall",
 
         date:
             "24/10/2026",
@@ -78,7 +78,7 @@ const events = {
             "Showcase an innovative project and explain its concept, development and practical applications.",
 
         venue:
-            "To Be Announced",
+            "BTech 2nd Year",
 
         date:
             "24-10-2026",
@@ -139,7 +139,7 @@ const events = {
             "A technical challenge designed to test knowledge, reasoning and problem-solving ability.",
 
         venue:
-            "To Be Announced",
+            "BE 2nd Year",
 
         date:
             "24-10-2026",
@@ -190,7 +190,7 @@ const events = {
             "Participants get two minutes to communicate an idea, thought or topic clearly and effectively.",
 
         venue:
-            "To Be Announced",
+            "BTech 3rd Year",
 
         date:
             "24-10-2026",
@@ -246,7 +246,7 @@ const events = {
             "Present an original idea and explain its concept, purpose, impact and possible implementation.",
 
         venue:
-            "To Be Announced",
+            "Video Conference",
 
         date:
             "24-10-2026",
@@ -359,7 +359,7 @@ const events = {
             "A modelling challenge where participants can demonstrate their CAD design and modelling skills.",
 
         venue:
-            "To Be Announced",
+            "CAD/CAM Centre",
 
         date:
             "24-10-2026",
