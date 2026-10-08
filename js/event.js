@@ -25,7 +25,7 @@ const events = {
             "Maximum 4 members",
 
         cooridnators:
-            "Nitharshana R K | Sindhuja M",
+            "Nitharshana R K | Sindhuja M | Subha Sri R | Bhavadharani T",
 
         contact:
             "8903152550 | 8838407391",
