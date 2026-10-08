@@ -134,6 +134,33 @@ button {
     color: var(--accent) !important;
 }
 
+.instagram-icon {
+    width: 22px;
+    height: 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #aaa;
+    transition: 0.25s ease;
+}
+
+.instagram-icon svg {
+    width: 21px;
+    height: 21px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+}
+
+.instagram-icon svg circle:last-child {
+    fill: currentColor;
+    stroke: none;
+}
+
+.instagram-icon:hover {
+    color: var(--accent);
+    transform: translateY(-2px);
+}
 
 .menu-btn {
 
@@ -1051,6 +1078,29 @@ footer {
     font-size: 10px;
 }
 
+.footer-instagram {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--accent) !important;
+}
+
+.footer-instagram svg {
+    width: 16px;
+    height: 16px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+}
+
+.footer-instagram svg circle:last-child {
+    fill: currentColor;
+    stroke: none;
+}
+
+.footer-instagram:hover {
+    color: white !important;
+}
 
 /* =====================================================
    MOBILE
