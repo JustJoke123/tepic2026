@@ -9,6 +9,14 @@ const posters = [
     },
 
     {
+        id: "cipofest",
+        title: "CIPOFEST 2026",
+        description: "Cipofest'26 Poster",
+        image: "assets/posters/Cipofest Poster.png",
+        link: "assets/posters/Cipofest Poster.png"
+    },
+
+    {
         id: "paper",
         title: "Paper Presentation",
         description: "Paper Presentation Poster with Rules and Regulations",

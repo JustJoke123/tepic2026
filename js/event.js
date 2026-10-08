@@ -302,7 +302,57 @@ const events = {
 
         number: "06",
 
-        title: "Polymer & Mechanical Workshop",
+        title: "Polymer Workshop",
+
+        description:
+            "Learn practical skills beyond the classroom.",
+
+        about:
+            "An interactive learning experience on topic 'Microplastics in Water: Challenger, Detection and Advanced removal technologies by using MOFS'",
+
+        venue:
+            "To Be Announced",
+
+        date:
+            "24-10-2026",
+
+        time:
+            "To Be Announced",
+
+        team:
+            "Individual",
+        
+        cooridnators:
+            "Karthik A K | Sakthi Vignesh M",
+
+        contact:
+            "9786488201 | 9043405230",
+
+        register:
+            "https://forms.gle/E7Q2SXHJDqe2q5dXA",
+
+        poster:
+            "assets/flyers/Workshop Polymer Flyer.pdf",
+
+        rules: [
+
+            "Participants must register before the deadline.",
+
+            "Seats may be limited.",
+
+            "Participants must follow workshop instructions.",
+
+            "Further details will be announced soon."
+
+        ]
+
+    },
+
+    workshop: {
+
+        number: "07",
+
+        title: "Manufacturing Workshop",
 
         description:
             "Learn practical skills beyond the classroom.",
@@ -314,22 +364,23 @@ const events = {
             "To Be Announced",
 
         date:
-            "To Be Announced",
+            "24-10-2026",
 
         time:
             "To Be Announced",
 
         team:
-            "To Be Announced",
+            "Individual",
         
         cooridnators:
-            "Karthik A K | Sakthi Vignesh M | Sindhiya P A | Kavin G",
+            "Sindhiya P A | Kavin G",
 
         contact:
             "9786488201 | 9043405230",
 
         register:
-            "YOUR_WORKSHOP_GOOGLE_FORM_LINK",
+            "https://forms.gle/V41JfZghBpwVK8ir5",
+
 
         rules: [
 
@@ -348,7 +399,7 @@ const events = {
 
     cad: {
 
-        number: "07",
+        number: "08",
 
         title: "CAD Modelling",
 
@@ -379,6 +430,9 @@ const events = {
 
         register:
             "https://forms.gle/wBQvDfZxDECjciKV8",
+
+        poster:
+            "assets/flyers/CAD Flyer.pdf",
 
         rules: [
 
