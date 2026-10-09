@@ -20,7 +20,7 @@ const posters = [
         id: "dance",
         title: "CIPOFEST Dance",
         description: "Cipofest'26 Dance Poster",
-        image: "assets/posters/dance.png",
+        image: "assets/posters/dance.jpg",
         link: "assets/flyers/Dance Flyer.pdf"
     },
 
