@@ -322,7 +322,7 @@ const events = {
             "Karthik A K | Sakthi Vignesh M",
 
         contact:
-            " 9043405230 | 9786488201",
+            " 6380966306 | 9786488201",
 
         register:
             "https://forms.gle/E7Q2SXHJDqe2q5dXA",
@@ -372,7 +372,7 @@ const events = {
             "Sindhiya P A | Kavin G",
 
         contact:
-            "9786488201 | 9043405230",
+            "9043405230 | 8940536915",
 
         register:
             "https://forms.gle/V41JfZghBpwVK8ir5",
