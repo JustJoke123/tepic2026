@@ -273,6 +273,74 @@ a {
 
 
 /* =========================
+   DANCE EVENT REGISTER BTN
+========================== */
+
+.dance-btn {
+    
+    display: inline-flex;
+    
+    align-items: center;
+    
+    justify-content: center;
+    
+    gap: 8px;
+    
+    padding: 17px 26px;
+    
+    font-size: 13px;
+    
+    font-weight: 600;
+    
+    text-decoration: none;
+    
+    transition: 0.3s ease;
+}
+
+.dance-btn-accent {
+    
+    background: var(--accent);
+    
+    color: #080808;
+    
+    border: 1px solid var(--accent);
+}
+
+.dance-btn-outline {
+    
+    background: transparent;
+    
+    border: 1px solid var(--border);
+    
+    color: white;
+}
+
+.dance-btn:hover {
+    
+    transform: translateY(-3px);
+
+}
+
+.dance-btn-accent:hover {
+    
+    background: #e4ff75;
+    
+    border-color: #e4ff75;
+    
+    color: #080808;
+}
+
+.dance-btn-outline:hover {
+    
+    background: var(--accent);
+    
+    border-color: var(--accent);
+    
+    color: #080808;
+}
+
+
+/* =========================
    EVENT INFORMATION
 ========================= */
 
