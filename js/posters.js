@@ -5,7 +5,7 @@ const posters = [
         title: "TEPIC 2026",
         description: "Tepic'26 Poster",
         image: "assets/posters/tepic-poster.jpg",
-        link: "assets/posters/tepic-poster.jpg"
+        link: "assets/flyers/Tepic Flyer.pdf"
     },
 
     {
