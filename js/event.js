@@ -19,7 +19,7 @@ const events = {
             "24/10/2026",
 
         time:
-            "To Be Announced",
+            "10:00 AM to 12.30 PM - Slot 1 | 02:00 PM to 03:30 PM - Slot 2",
 
         team:
             "Maximum 4 members",
@@ -42,7 +42,7 @@ const events = {
 
             "Each team may have 1 - 4 participants.",
 
-            "Presentation time: 10 minutes, followed by a 2 minutes Q&A session.",
+            "Presentation time: 7 minutes, followed by a 3 minutes Q&A session.",
 
             "Abstract must be submitted in PDF format with all team members' names.",
 
@@ -84,7 +84,7 @@ const events = {
             "24-10-2026",
 
         time:
-            "To Be Announced",
+            "10:00 AM to 12.30 PM",
 
         team:
             "Maximum 2 members",
@@ -115,7 +115,7 @@ const events = {
 
             "Email the digital copy of your poster to the same designated address by October 21, 2026.",
 
-            "Presentations are capped at 5 to 7 minutes, immediately followed by a viva (Q&A) session.",
+            "Presentations are capped at 5 minutes, immediately followed by a 2 minutes viva (Q&A) session.",
 
             "Scoring will focus on thematic relevance, original creativity, research effort, scientific accuracy, and delivery.",
 
@@ -125,10 +125,73 @@ const events = {
 
     },
 
+    idea: {
+
+        number: "03",
+
+        title: "Idea Presentation",
+
+        description:
+            "Turn your idea into something worth sharing.",
+
+        about:
+            "Present an original idea and explain its concept, purpose, impact and possible implementation.",
+
+        venue:
+            "Video Conference",
+
+        date:
+            "24-10-2026",
+
+        time:
+            "10:00 AM to 12.30 PM",
+
+        team:
+            "Maximum 3 members",
+        
+        cooridnators:
+            "Anancia M | Yogeshvar S | Ishwarya K | Eswar J",
+
+        contact:
+            "9751728222 | 936166314",
+
+        register:
+            "https://forms.gle/bGvZMmtnL4qFuNqC8",
+
+        poster:
+            "assets/flyers/Idea Presentation Flyer.pdf",
+
+        rules: [
+
+            "Participants must select one topic from the given themes.",
+
+            "The presentation must be original and relevant to the selected topic.",
+
+            "Each team will be given 5 minutes for presentation followed by 2 minutes of Q&A.",
+
+            "Participants must strictly adhere to the allotted time.",
+
+            "For PPT, Poster or even Prototype presentations are requested to send them PPT/Materials in advance to the event coordinators.",
+
+            "Plagiarized or copied ideas may lead to disqualification.",
+
+            "The decision of the judges will be final and binding.",
+
+            "Participants must report to the venue before their allotted presentation time.",
+
+            "Participants must be prepared to defend and explain their ideas during the Q&A session.",
+
+            "Participants are requested not to make any changes to the submitted content or logos.",
+
+            "The prize amounts will be awarded on the day of the event."
+
+        ]
+
+    },
 
     quiz: {
 
-        number: "03",
+        number: "04",
 
         title: "Technical Quiz",
 
@@ -145,7 +208,7 @@ const events = {
             "24-10-2026",
 
         time:
-            "To Be Announced",
+            "02:00 PM to 03:30 PM",
 
         team:
             "Maximum 2 members",
@@ -176,10 +239,9 @@ const events = {
 
     },
 
-
     review: {
 
-        number: "04",
+        number: "05",
 
         title: "2 Minutes Review",
 
@@ -196,7 +258,7 @@ const events = {
             "24-10-2026",
 
         time:
-            "To Be Announced",
+            "12:30 PM to 01:00 PM",
 
         team:
             "Individual",
@@ -232,75 +294,9 @@ const events = {
 
     },
 
-
-    idea: {
-
-        number: "05",
-
-        title: "Idea Presentation",
-
-        description:
-            "Turn your idea into something worth sharing.",
-
-        about:
-            "Present an original idea and explain its concept, purpose, impact and possible implementation.",
-
-        venue:
-            "Video Conference",
-
-        date:
-            "24-10-2026",
-
-        time:
-            "To Be Announced",
-
-        team:
-            "Maximum 3 members",
-        
-        cooridnators:
-            "Anancia M | Yogeshvar S | Ishwarya K | Eswar J",
-
-        contact:
-            "9751728222 | 936166314",
-
-        register:
-            "https://forms.gle/bGvZMmtnL4qFuNqC8",
-
-        poster:
-            "assets/flyers/Idea Presentation Flyer.pdf",
-
-        rules: [
-
-            "Participants must select one topic from the given themes.",
-
-            "The presentation must be original and relevant to the selected topic.",
-
-            "Each team will be given 7 minutes for presentation followed by 3 minutes of Q&A.",
-
-            "Participants must strictly adhere to the allotted time.",
-
-            "For PPT, Poster or even Prototype presentations are requested to send them PPT/Materials in advance to the event coordinators.",
-
-            "Plagiarized or copied ideas may lead to disqualification.",
-
-            "The decision of the judges will be final and binding.",
-
-            "Participants must report to the venue before their allotted presentation time.",
-
-            "Participants must be prepared to defend and explain their ideas during the Q&A session.",
-
-            "Participants are requested not to make any changes to the submitted content or logos.",
-
-            "The prize amounts will be awarded on the day of the event."
-
-        ]
-
-    },
-
-
     pworkshop: {
 
-        number: "06",
+        number: "##",
 
         title: "Polymer Workshop",
 
@@ -308,7 +304,7 @@ const events = {
             "Learn practical skills beyond the classroom.",
 
         about:
-            "An interactive learning experience on topic 'Microplastics in Water: Challenger, Detection and Advanced removal technologies by using MOFS'",
+            "An interactive learning experience on topic 'Microplastics in Water: Challenges, Detection and Advanced removal technologies by using MOFS'",
 
         venue:
             "To Be Announced",
@@ -317,7 +313,7 @@ const events = {
             "24-10-2026",
 
         time:
-            "To Be Announced",
+            "11:15 AM to 01:00 PM",
 
         team:
             "Individual",
@@ -350,7 +346,7 @@ const events = {
 
     mworkshop: {
 
-        number: "07",
+        number: "##",
 
         title: "Manufacturing Workshop",
 
@@ -367,7 +363,7 @@ const events = {
             "24-10-2026",
 
         time:
-            "To Be Announced",
+            "11:15 AM to 01:00 PM",
 
         team:
             "Individual",
@@ -399,7 +395,7 @@ const events = {
 
     cad: {
 
-        number: "08",
+        number: "06",
 
         title: "CAD Modelling",
 
@@ -416,7 +412,7 @@ const events = {
             "24-10-2026",
 
         time:
-            "To Be Announced",
+            "11:00 AM to 01:00 PM",
 
         team:
             "Individual",
