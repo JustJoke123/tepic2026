@@ -179,12 +179,14 @@ function displayPosters() {
                     ${
                         poster.description
                         ?
-                        `<p>${poster.description}
-                        <a> [Click to view full poster] </a>
-                        </p>`
+                        `<p>${poster.description}</p>`
                         :
                         ""
                     }
+
+                    <h4>
+                        [Click on image to view full poster]
+                    </h4>
 
                 </div>
 
