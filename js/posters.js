@@ -180,7 +180,8 @@ function displayPosters() {
                         poster.description
                         ?
                         `<p>${poster.description}
-                        [Click to view full poster]</p>`
+                        <a> [Click to view full poster] </a>
+                        </p>`
                         :
                         ""
                     }
