@@ -184,7 +184,7 @@ function displayPosters() {
                         ""
                     }
 
-                    <p>
+                    <p style="color: #d7ff3f;">
                         [Click on image to view full poster]
                     </p>
 
