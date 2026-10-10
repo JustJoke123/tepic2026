@@ -184,9 +184,9 @@ function displayPosters() {
                         ""
                     }
 
-                    <h4>
+                    <p>
                         [Click on image to view full poster]
-                    </h4>
+                    </p>
 
                 </div>
 
