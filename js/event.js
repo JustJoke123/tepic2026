@@ -430,8 +430,7 @@ const events = {
             "https://forms.gle/V41JfZghBpwVK8ir5",
 
         poster:
-            "assets/flyers/Workshop Manufacturing Flyer.pdf"
-
+            "assets/flyers/Workshop Manufacturing Flyer.pdf",
 
         rules: [
 
