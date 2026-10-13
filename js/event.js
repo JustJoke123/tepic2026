@@ -294,104 +294,6 @@ const events = {
 
     },
 
-    pworkshop: {
-
-        number: "##",
-
-        title: "Polymer Workshop",
-
-        description:
-            "Learn practical skills beyond the classroom.",
-
-        about:
-            "An interactive learning experience on topic 'Microplastics in Water: Challenges, Detection and Advanced removal technologies by using MOFS'",
-
-        venue:
-            "To Be Announced",
-
-        date:
-            "24-10-2026",
-
-        time:
-            "11:15 AM to 01:00 PM",
-
-        team:
-            "Individual",
-        
-        cooridnators:
-            "Karthik A K | Sakthi Vignesh M",
-
-        contact:
-            " 6380966306 | 9786488201",
-
-        register:
-            "https://forms.gle/E7Q2SXHJDqe2q5dXA",
-
-        poster:
-            "assets/flyers/Workshop Polymer Flyer.pdf",
-
-        rules: [
-
-            "Participants must register before the deadline.",
-
-            "Seats may be limited.",
-
-            "Participants must follow workshop instructions.",
-
-            "Further details will be announced soon."
-
-        ]
-
-    },
-
-    mworkshop: {
-
-        number: "##",
-
-        title: "Manufacturing Workshop",
-
-        description:
-            "Learn practical skills beyond the classroom.",
-
-        about:
-            "An interactive learning experience designed to introduce participants to practical technical concepts and skills.",
-
-        venue:
-            "To Be Announced",
-
-        date:
-            "24-10-2026",
-
-        time:
-            "11:15 AM to 01:00 PM",
-
-        team:
-            "Individual",
-        
-        cooridnators:
-            "Sindhiya P A | Kavin G",
-
-        contact:
-            "9043405230 | 8940536915",
-
-        register:
-            "https://forms.gle/V41JfZghBpwVK8ir5",
-
-
-        rules: [
-
-            "Participants must register before the deadline.",
-
-            "Seats may be limited.",
-
-            "Participants must follow workshop instructions.",
-
-            "Further details will be announced soon."
-
-        ]
-
-    },
-
 
     cad: {
 
@@ -442,7 +344,108 @@ const events = {
 
         ]
 
-    }
+    },
+
+    pworkshop: {
+
+        number: "##",
+
+        title: "Polymer Workshop",
+
+        description:
+            "Learn practical skills beyond the classroom.",
+
+        about:
+            "An interactive learning experience on topic 'Microplastics in Water: Challenges, Detection and Advanced removal technologies by using MOFS'",
+
+        venue:
+            "To Be Announced",
+
+        date:
+            "24-10-2026",
+
+        time:
+            "11:15 AM to 01:00 PM",
+
+        team:
+            "Individual",
+        
+        cooridnators:
+            "Karthik A K | Sakthi Vignesh M",
+
+        contact:
+            " 6380966306 | 9786488201",
+
+        register:
+            "https://forms.gle/E7Q2SXHJDqe2q5dXA",
+
+        poster:
+            "assets/flyers/Workshop Polymer Flyer.pdf",
+
+        rules: [
+
+            "Participants must register before the deadline.",
+
+            "Limited seats, 100 only.",
+
+            "Participants must follow workshop instructions.",
+
+            "Participants should be on time."
+
+        ]
+
+    },
+
+    mworkshop: {
+
+        number: "##",
+
+        title: "Manufacturing Workshop",
+
+        description:
+            "Learn practical skills beyond the classroom.",
+
+        about:
+            "An interactive learning experience designed to introduce participants to practical technical concepts and skills.",
+
+        venue:
+            "To Be Announced",
+
+        date:
+            "24-10-2026",
+
+        time:
+            "11:15 AM to 01:00 PM",
+
+        team:
+            "Individual",
+        
+        cooridnators:
+            "Sindhiya P A | Kavin G",
+
+        contact:
+            "9043405230 | 8940536915",
+
+        register:
+            "https://forms.gle/V41JfZghBpwVK8ir5",
+
+        poster:
+            "assets/flyers/Workshop Manufacturing Flyer.pdf"
+
+
+        rules: [
+
+            "Participants must register before the deadline.",
+
+            "Limited seats, 100 only.",
+
+            "Participants must follow workshop instructions.",
+
+            "Participants should be on time."
+
+        ]
+
+    },
 
 };
 
