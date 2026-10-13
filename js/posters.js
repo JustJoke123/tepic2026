@@ -79,6 +79,14 @@ const posters = [
         image: "assets/posters/pworkshop.jpg",
         link: "assets/flyers/Workshop Polymer Flyer.pdf"
     },
+
+    {
+        id: "mworkshop",
+        title: "Manufacturing Workshop",
+        description: "Manufacturing Workshop Poster",
+        image: "assets/posters/mworkshop.jpg",
+        link: "assets/flyers/Workshop Manufacturing Flyer.pdf"
+    },
 ];
 
 
