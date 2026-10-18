@@ -2,20 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tepic2026.onrender.com/</loc>
-  </url>
-  <url>
-    <loc>https://tepic2026.onrender.com/event.html</loc>
-  </url>
-  <url>
-    <loc>https://tepic2026.onrender.com/teams.html</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>1.0000</priority>
   </url>
   <url>
     <loc>https://tepic2026.onrender.com/posters.html</loc>
-  </url>
-  <url>
-    <loc>https://tepic2026.onrender.com/culturals.html</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
   </url>
   <url>
     <loc>https://tepic2026.onrender.com/registration.html</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=paper</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=poster</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=idea</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=quiz</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=review</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=cad</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=pworkshop</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/event.html?event=mworkshop</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/culturals.html</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://tepic2026.onrender.com/teams.html</loc>
+    <lastmod>2026-10-18T17:10:39+00:00</lastmod>
+    <priority>0.8000</priority>
   </url>
 </urlset>
