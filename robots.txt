@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tepic2026.onrender.com/sitemap.xml
